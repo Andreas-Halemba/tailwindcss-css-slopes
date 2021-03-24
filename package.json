@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "author": "Andreas Halemba",
+  "repository": "https://github.com/Andreas-Halemba/tailwindcss-css-slopes",
   "license": "ISC",
   "dependencies": {
     "tailwindcss": "^2.0.4"
