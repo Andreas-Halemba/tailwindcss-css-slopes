@@ -1,0 +1,14 @@
+{
+  "name": "@andreas-halemba/tailwindcss-css-slopes",
+  "private": false,
+  "version": "1.3.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Andreas Halemba",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
